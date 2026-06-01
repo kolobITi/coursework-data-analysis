@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Data files (не коммитим большие датасеты)
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+data/
+datasets/
+
+# Output
+*.png
+*.jpg
+*.jpeg
+figures/
+output/
+results/
+coursework_figures/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
