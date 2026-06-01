@@ -15,7 +15,7 @@
 | Файл | Описание | Набор данных |
 |------|----------|-------------|
 | `chapter1_tabular_data.py` | Глава 1. Первичный анализ табличных данных | World Population by Age Group 2020 ([Kaggle](https://www.kaggle.com/datasets/alizahidraja/world-population-by-age-group-2020)) |
-| `chapter2_time_series.py` | Глава 2. Первичный анализ временных рядов | CWRU Bearing Dataset ([Kaggle](https://www.kaggle.com/datasets/astrollama/cwru-bearing-dataset)) |
+| `chapter2_time_series.py` | Глава 2. Первичный анализ временных рядов | CWRU MAT Full Dataset ([Kaggle](https://www.kaggle.com/datasets/sufian79/cwru-mat-full-dataset)) |
 | `chapter3_images_gender.py` | Глава 3. Первичный анализ данных с изображениями | UTKFace Cropped ([Kaggle](https://www.kaggle.com/datasets/moritzm00/utkface-cropped)) |
 | `chapter4_text_spam.py` | Глава 4. Первичный анализ текстовых данных | Email Spam Classification Dataset CSV ([Kaggle](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)) |
 
