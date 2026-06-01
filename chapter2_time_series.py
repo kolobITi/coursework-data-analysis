@@ -2,7 +2,7 @@
 """
 Курсовой проект. Глава 2.
 Первичный анализ набора данных с временными рядами
-Датасет: CWRU MAT Full Dataset (Kaggle, sufian79)
+Датасет: CWRU Bearing Dataset (Kaggle)
 Автор: Колобов Егор Евгеньевич, ЕТ-113
 """
 import warnings, json
@@ -285,7 +285,7 @@ plt.close()
 
 # ── Статистика ────────────────────────────────────────────────────────────────
 stats_out = {
-    'dataset':      'CWRU MAT Full Dataset',
+    'dataset':      'CWRU Bearing Dataset',
     'source':       'https://www.kaggle.com/datasets/sufian79/cwru-mat-full-dataset',
     'license':      'MIT',
     'total_files':  sum(len(v) for v in signals.values()),
