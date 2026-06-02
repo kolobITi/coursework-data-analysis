@@ -287,7 +287,7 @@ plt.close()
 stats_out = {
     'dataset':      'CWRU Bearing Dataset',
     'source':       'https://www.kaggle.com/datasets/sufian79/cwru-mat-full-dataset',
-    'license':      'MIT',
+    'license':      'CC BY-SA 4.0',
     'total_files':  sum(len(v) for v in signals.values()),
     'classes':      {cls: {'ru': CLASSES[cls][1], 'files': len(items)}
                      for cls, items in signals.items()},
